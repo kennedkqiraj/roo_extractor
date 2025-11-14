@@ -45,7 +45,7 @@ Output format:
 
 ---
 
-# 🐍 **Virtual Environment Setup (Windows, macOS, Linux)**
+# **Virtual Environment Setup (Windows, macOS, Linux)**
 
 To ensure reproducible execution, use a Python virtual environment.
 
