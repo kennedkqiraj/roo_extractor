@@ -65,7 +65,7 @@ python3 -m venv .venv
 
 ### Windows CMD
 ```cmd
-.\.venv\Scriptsctivate
+.\.venv\Scripts\Activate
 ```
 
 ### Windows PowerShell
