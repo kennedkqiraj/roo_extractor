@@ -121,12 +121,7 @@ python roo_extractor.py
 
 ## **Repository Structure**
 ```
-roo_extractor/
-├── roo_extractor.py
-├── data/
-│   ├── evfta.pdf
-│   └── evfta_full_clean.json
-└── README.md
+roo_extractor/ ├─ data/ │ ├─ evfta.pdf │ └─ evfta_full_clean.json ├─ scripts/ │ └─ preprocess_evfta.py ├─ models/ ├─ notebooks/ ├─ ocr_articles_text.txt ├─ ocr_full_text.txt ├─ requirements.txt └─ README.md 
 ```
 
 ---
