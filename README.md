@@ -114,14 +114,24 @@ pip install pdf2image pytesseract pillow
 
 ### Run Extractor
 ```bash
-python roo_extractor.py
+python preprocessing_evfta.py
 ```
 
 ---
 
 ## **Repository Structure**
 ```
-roo_extractor/ ├─ data/ │ ├─ evfta.pdf │ └─ evfta_full_clean.json ├─ scripts/ │ └─ preprocess_evfta.py ├─ models/ ├─ notebooks/ ├─ ocr_articles_text.txt ├─ ocr_full_text.txt ├─ requirements.txt └─ README.md 
+roo_extractor/
+├─ data/
+│  ├─ evfta.pdf
+│  └─ evfta_full_clean.json
+├─ scripts/
+│  └─ preprocess_evfta.py
+├─ ocr_articles_text.txt
+├─ ocr_full_text.txt
+├─ requirements.txt
+└─ README.md
+
 ```
 
 ---
